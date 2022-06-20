@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Matheus
+#### Estudante de Análise e Desenvolvimento de Sistema na São Paulo Tech School.
+#### Estágiario na São Paulo Tech School
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icon@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matheusferreira079)
 <!--
 **matheusferreira079/matheusferreira079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
